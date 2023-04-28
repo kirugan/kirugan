@@ -1,6 +1,5 @@
 ### Hi there, I'm Kirill 👋
 - Software Wizard
-- Team lead at [@Avito](https://github.com/avito-tech)
 
 ## What I'm focusing on
 - 🛠  In active development:
