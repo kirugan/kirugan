@@ -1,9 +1,8 @@
 ### Hi there, I'm Kirill 👋
 - Software Wizard
-
-## What I'm focusing on
-- 🛠  In active development:
-  - [scribe fork](https://github.com/kirugan/scribe)
+- Stack: Go, Rust, C/C++, Python, PostgreSQL
+- On GitHub since 2011
+- Currently working in the crypto industry
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kirugan&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/kirugan)
 
